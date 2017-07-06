@@ -1,0 +1,1 @@
+dev 2 filu lisätty deviin. Pitäisi haarautua irti feature branchista, koska feature branch on nyt sama kuin dev mutta yhden askeleen edellä.
